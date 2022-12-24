@@ -1,2 +1,2 @@
-# HTML
-HTML projects, self learning.
+# Web Technology
+Web Technology Project, self learning.
